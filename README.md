@@ -1,8 +1,6 @@
 # FAIR GPT
 
-A repo with documentation for [FAIR GPT](https://chat.openai.com/g/g-BkMR28wlV-fair).
-
-FAIR GPT is an AI assistant focused on guiding researchers and data stewards in making their datasets compliant with the FAIR (Findable, Accessible, Interoperable, and Reusable) principles.
+A documentation for [FAIR GPT](https://chat.openai.com/g/g-BkMR28wlV-fair), an AI assistant focused on guiding researchers and data stewards in making their datasets compliant with the FAIR (Findable, Accessible, Interoperable, and Reusable) principles.
 
 ## Features
 
@@ -19,9 +17,7 @@ FAIR GPT offers the following features:
 - **Data Policy Consultation:** Assists organizations in developing or refining their data policies to support FAIR data management and sharing practices.
 - **Data Paper Publication Support:** Recommends suitable data journals for publishing data papers, increasing the visibility and citation of datasets.
 - **Interactive FAIRness Assessment Tool:** Includes an interactive tool for users to self-assess their datasets' FAIRness, providing instant feedback and actionable advice for each FAIR principle.
-- **Community Engagement and Collaboration:** Facilitates connections within the research community for sharing best practices, challenges, and solutions related to FAIR data management.
-
-By leveraging FAIR GPT, users can ensure their datasets not only comply with FAIR principles but also are positioned for greater impact and reuse in the scientific community.
+- **Data management planning:** Creates a data management plan using the metadata of data.
 
 ## Getting Started
 To get started with FAIR GPT, follow these steps:
