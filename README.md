@@ -29,6 +29,20 @@ To get started with FAIR GPT, follow these steps:
    * Add a link to your data. Ask for assessment.
    * Ask whatever you want about FAIR data.
 
+## The uploaded knowledge
+
+* [H2020 Programme Guidelines on FAIR Data Management in Horizon 2020](https://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf)
+* ["Turning FAIR into reality" Final report and action plan from the European Commission expert group on FAIR data](https://data.europa.eu/doi/10.2777/1524)
+* [Awesome-RDM GitHub Repo](https://github.com/UB-Mannheim/awesome-RDM)
+
+## Actions (External APIs)
+
+* [re3data Repositories API](https://www.re3data.org/api/beta): This API provides access to repository data from re3data.org
+* [FAIR Enough API](https://api.fair-enough.semanticscience.org): API for evaluating resources with FAIR Enough service
+* [Wikidata API](https://www.wikidata.org/w/api.php): Gets Wikidata QIDs for a given label (`wbgetentities`)
+* [TIB Central Terminology Service Search API](https://service.tib.eu/ts4tib/api): API for free text search over the ontologies
+* [FAIR-Checker](https://fair-checker.france-bioinformatique.fr): Retrieves current weather data for a location
+
 ## How to Contribute
 If you're interested in improving FAIR GPT, please open an issue or make a pull request.
 
