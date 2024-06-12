@@ -41,7 +41,7 @@ To get started with FAIR GPT, follow these steps:
 * [FAIR Enough API](https://api.fair-enough.semanticscience.org): API for evaluating resources with FAIR Enough service
 * [Wikidata API](https://www.wikidata.org/w/api.php): Gets Wikidata QIDs for a given label (`wbgetentities`)
 * [TIB Central Terminology Service Search API](https://service.tib.eu/ts4tib/api): API for free text search over the ontologies
-* [FAIR-Checker](https://fair-checker.france-bioinformatique.fr): Retrieves current weather data for a location
+* [FAIR-Checker](https://fair-checker.france-bioinformatique.fr): FAIR-assessment tool with API. Paper: Gaignard, A., Rosnet, T., de Lamotte, F., Lefort, V., & Devignes, M. (2023). FAIR-Checker: supporting digital resource findability and reuse with Knowledge Graphs and Semantic Web standards. Journal of Biomedical Semantics, 14. https://doi.org/10.1186/s13326-023-00289-5
 
 ## How to Contribute
 If you're interested in improving FAIR GPT, please open an issue or make a pull request.
