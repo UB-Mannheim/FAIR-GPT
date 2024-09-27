@@ -21,13 +21,14 @@ FAIR GPT offers the following features:
 
 ## Getting Started
 To get started with FAIR GPT, follow these steps:
-1. **Get access to ChatGPT Plus:** Buy subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plus)
-2. **Open [FAIR GPT](https://chat.openai.com/g/g-BkMR28wlV-fair)**
-3. **Usage scenarios:**
+1. **Open [FAIR GPT](https://chat.openai.com/g/g-BkMR28wlV-fair)**
+2. **Usage scenarios:**
    * Upload you metadata or part of data. Ask for help.
    * Copy and paste your metadata or data into a prompt. Ask for help.
    * Add a link to your data. Ask for assessment.
    * Ask whatever you want about FAIR data.
+   * Ask "create data and code availability statements for my data and codes".
+   * Ask "create an RDM part for my research project proposal".
 
 ## The uploaded knowledge
 
