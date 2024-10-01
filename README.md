@@ -54,3 +54,4 @@ The documentation for FAIR GPT is available under the [CC0](https://creativecomm
 
 * Shigapov, R. (2023, December 15). Optimizing FAIR data sharing with ChatGPT. ENGAGE.EU Webinar on FAIR data, Online. Zenodo. https://doi.org/10.5281/zenodo.10378143
 * Shigapov, R. (2024, February 15). ChatGPT for FAIR Research Data. Research Data Management Seminars at the University of Mannheim, Online. Zenodo. https://doi.org/10.5281/zenodo.10664554
+* Shigapov, R. (2024, Oktober 2). FAIR GPT in Research Support. AI Crossroads in Research Support: Data, Ethics & Grants: ENGAGE.EU Task 5.4 In-Person Meeting, Bergen, Norway. Zenodo. https://doi.org/10.5281/zenodo.13868506
